@@ -59,6 +59,10 @@ Healora is a mental health support chatbot designed to provide empathetic, regio
 - **Therapists**: Predefined list with specialties and time slots (e.g., Dr. Jane Smith for Anxiety and Depression).
 - **Email**: Notifications sent from `GMAIL_ADDRESS` to therapist and user emails.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/6486fd2a-de8b-4638-8822-08a797779b7f
+
 ## Future Improvements
 - Add multilingual support.
 - Integrate real-time therapist availability.
